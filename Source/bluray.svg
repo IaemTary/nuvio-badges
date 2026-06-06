@@ -1,0 +1,27 @@
+<svg width="68" height="28" viewBox="0 0 68 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tb69561" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="rgb(255,184,0)" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="rgb(255,184,0)" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="bb69561" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#FFB800" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#FFB800" stop-opacity="0.45"/>
+    </linearGradient>
+    <filter id="gb69561" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="68" height="28" rx="5" fill="rgb(7,7,14)"/>
+  <rect width="68" height="28" rx="5" fill="url(#tb69561)"/>
+  <rect width="68" height="28" rx="5" fill="none" stroke="#FFB800" stroke-width="3" stroke-opacity="0.32" filter="url(#gb69561)"/>
+  <rect width="68" height="28" rx="5" fill="none" stroke="#FFB800" stroke-width="0.8" stroke-opacity="0.65"/>
+  <line x1="6" y1="1" x2="62" y2="1" stroke="rgba(255,255,255,0.2)" stroke-width="0.75"/>
+  <rect x="5" y="6" width="3" height="16" rx="1.5" fill="url(#bb69561)"/>
+  <text x="36.33" y="14.00"
+    text-anchor="middle" dominant-baseline="middle"
+    fill="#ffffff"
+    font-family="'Poppins','Roboto','sans-serif-black','Arial Black',Impact,sans-serif"
+    font-size="11.00" font-weight="900" letter-spacing="0.4">BluRay</text>
+</svg>
