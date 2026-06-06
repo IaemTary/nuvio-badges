@@ -15,9 +15,8 @@
 | Edition | IMAX · EXTENDED · DC · SeaDex · PROPER · REPACK |
 
 ## Import into Nuvio
-1. Upload this repo to **github.com/IaemTary/nuvio-badges**
-2. Get the raw URL of `badges.json`:
+1. Get the raw URL of `badges.json` below:
    ```
    https://raw.githubusercontent.com/IaemTary/nuvio-badges/main/badges.json
    ```
-3. In Nuvio → **Settings** → Streams→ Fusion Badge URLs→ paste it ✓
+2. In Nuvio → **Settings** → Streams→ Fusion Badge URLs→ paste it ✓
