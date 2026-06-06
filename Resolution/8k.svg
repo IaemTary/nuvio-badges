@@ -1,0 +1,32 @@
+<svg width="44" height="28" viewBox="0 0 44 28" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tb53781" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="rgb(0,238,255)" stop-opacity="0.22"/>
+      <stop offset="100%" stop-color="rgb(0,238,255)" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="bb53781" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%"   stop-color="#00EEFF" stop-opacity="1"/>
+      <stop offset="100%" stop-color="#00EEFF" stop-opacity="0.45"/>
+    </linearGradient>
+    <filter id="gb53781" x="-40%" y="-40%" width="180%" height="180%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="2" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="44" height="28" rx="5" fill="rgb(7,7,14)"/>
+  <rect width="44" height="28" rx="5" fill="url(#tb53781)"/>
+  <rect width="44" height="28" rx="5" fill="none" stroke="#00EEFF" stroke-width="3" stroke-opacity="0.32" filter="url(#gb53781)"/>
+  <rect width="44" height="28" rx="5" fill="none" stroke="#00EEFF" stroke-width="0.8" stroke-opacity="0.65"/>
+  <line x1="6" y1="1" x2="38" y2="1" stroke="rgba(255,255,255,0.2)" stroke-width="0.75"/>
+  <rect x="5" y="6" width="3" height="16" rx="1.5" fill="url(#bb53781)"/>
+  <text x="23.10" y="13.44"
+    text-anchor="middle" dominant-baseline="middle"
+    fill="#ffffff"
+    font-family="'Poppins','Roboto','sans-serif-black','Arial Black',Impact,sans-serif"
+    font-size="10.01" font-weight="900" letter-spacing="0.4">8K</text>
+  <text x="23.10" y="23.24"
+    text-anchor="middle" dominant-baseline="middle"
+    fill="rgb(0,238,255)" fill-opacity="0.9"
+    font-family="'Poppins','Roboto','Arial',sans-serif"
+    font-size="7" font-weight="700" letter-spacing="0.7">UHD</text>
+</svg>
