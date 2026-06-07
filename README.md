@@ -17,6 +17,6 @@
 ## Import into Nuvio
 1. Get the raw URL of `badges.json` below:
    ```
-   https://github.com/IaemTary/nuvio-badges/blob/main/badges.json
+   https://raw.githubusercontent.com/IaemTary/nuvio-badges/main/badges.json
    ```
 2. In Nuvio → **Settings** → Streams→ Fusion Badge URLs→ paste it ✓
