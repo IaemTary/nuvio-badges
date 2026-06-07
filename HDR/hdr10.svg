@@ -1,0 +1,17 @@
+<svg width="132" height="52" viewBox="0 0 132 52" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tb1135" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgb(153,34,221)" stop-opacity="0.20"/><stop offset="100%" stop-color="rgb(153,34,221)" stop-opacity="0.04"/></linearGradient>
+    <linearGradient id="bb1135" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#9922DD" stop-opacity="1.0"/><stop offset="100%" stop-color="#9922DD" stop-opacity="0.4"/></linearGradient>
+    <filter id="gb1135" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur in="SourceGraphic" stdDeviation="3.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+  </defs>
+  <rect width="132" height="52" rx="8" fill="rgb(7,7,14)"/>
+  <rect width="132" height="52" rx="8" fill="url(#tb1135)"/>
+  <rect width="132" height="52" rx="8" fill="none" stroke="#9922DD" stroke-width="6" stroke-opacity="0.28" filter="url(#gb1135)"/>
+  <rect width="132" height="52" rx="8" fill="none" stroke="#9922DD" stroke-width="1.2" stroke-opacity="0.75"/>
+  <line x1="10" y1="1.5" x2="122" y2="1.5" stroke="rgba(255,255,255,0.15)" stroke-width="1.2"/>
+  <rect x="8" y="9" width="5" height="34" rx="2.5" fill="url(#bb1135)"/>
+  <text x="70.4" y="36.1" text-anchor="middle"
+    fill="#ffffff"
+    font-family="'Poppins','Roboto','sans-serif-black','Arial Black',Impact,sans-serif"
+    font-size="28" font-weight="900" letter-spacing="0.5">HDR10</text>
+</svg>
