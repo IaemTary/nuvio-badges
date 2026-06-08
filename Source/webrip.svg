@@ -1,17 +1,17 @@
-<svg width="155" height="52" viewBox="0 0 155 52" xmlns="http://www.w3.org/2000/svg">
+<svg width="251" height="90" viewBox="0 0 251 90" xmlns="http://www.w3.org/2000/svg">
   <defs>
-    <linearGradient id="tb11128" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgb(255,119,0)" stop-opacity="0.20"/><stop offset="100%" stop-color="rgb(255,119,0)" stop-opacity="0.04"/></linearGradient>
-    <linearGradient id="bb11128" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FF7700" stop-opacity="1.0"/><stop offset="100%" stop-color="#FF7700" stop-opacity="0.4"/></linearGradient>
-    <filter id="gb11128" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur in="SourceGraphic" stdDeviation="3.5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+    <linearGradient id="tb15959" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="rgb(255,119,0)" stop-opacity="0.20"/><stop offset="100%" stop-color="rgb(255,119,0)" stop-opacity="0.04"/></linearGradient>
+    <linearGradient id="bb15959" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#FF7700" stop-opacity="1.0"/><stop offset="100%" stop-color="#FF7700" stop-opacity="0.4"/></linearGradient>
+    <filter id="gb15959" x="-50%" y="-50%" width="200%" height="200%"><feGaussianBlur in="SourceGraphic" stdDeviation="5" result="blur"/><feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
   </defs>
-  <rect width="155" height="52" rx="8" fill="rgb(7,7,14)"/>
-  <rect width="155" height="52" rx="8" fill="url(#tb11128)"/>
-  <rect width="155" height="52" rx="8" fill="none" stroke="#FF7700" stroke-width="6" stroke-opacity="0.28" filter="url(#gb11128)"/>
-  <rect width="155" height="52" rx="8" fill="none" stroke="#FF7700" stroke-width="1.2" stroke-opacity="0.75"/>
-  <line x1="10" y1="1.5" x2="145" y2="1.5" stroke="rgba(255,255,255,0.15)" stroke-width="1.2"/>
-  <rect x="8" y="9" width="5" height="34" rx="2.5" fill="url(#bb11128)"/>
-  <text x="81.6" y="36.1" text-anchor="middle"
+  <rect width="251" height="90" rx="12" fill="rgb(7,7,14)"/>
+  <rect width="251" height="90" rx="12" fill="url(#tb15959)"/>
+  <rect width="251" height="90" rx="12" fill="none" stroke="#FF7700" stroke-width="9" stroke-opacity="0.25" filter="url(#gb15959)"/>
+  <rect width="251" height="90" rx="12" fill="none" stroke="#FF7700" stroke-width="1.5" stroke-opacity="0.75"/>
+  <line x1="15" y1="2" x2="236" y2="2" stroke="rgba(255,255,255,0.15)" stroke-width="1.5"/>
+  <rect x="13" y="14" width="8" height="62" rx="4" fill="url(#bb15959)"/>
+  <text x="132.4" y="61.6" text-anchor="middle"
     fill="#ffffff"
     font-family="'Poppins','Roboto','sans-serif-black','Arial Black',Impact,sans-serif"
-    font-size="28" font-weight="900" letter-spacing="0.5">WEBRip</text>
+    font-size="46" font-weight="900" letter-spacing="0.8">WEBRip</text>
 </svg>
