@@ -6,7 +6,7 @@
 ## Categories (36 badges)
 | Category | Badges |
 |---|---|
-| Resolution | 8K · 4K · 1080p · 720p · 480p |
+| Resolution | 8K · 4K · 2K · 1080p · 720p · 480p |
 | Source | REMUX · BluRay · WEB-DL · WEBRip · HDCAM · DVDRip |
 | HDR | Dolby Vision · HDR10+ · HDR10 · HLG · SDR |
 | Audio | Atmos · DTS:X · TrueHD · DTS-HD MA · DD+ · Dolby Digital · AAC |
